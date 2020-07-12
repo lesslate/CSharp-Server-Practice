@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzEPFXqF34mZtBV/kQ48HKgicg+MHj3vlTpMP4H5zRs29CuO0iJoL46JO8aCbccUAsz18tcaBazN74O5JukXPQ==",
+  "dgSpecHash": "E5mQDxXFbdKrZvu84HPqqpyM8TDSJi7FYvsSTXrEFvkLX1ZalFBe7pEzPP8gr8zrpzstXk17alvFjrHk6Jde0w==",
   "success": true,
-  "projectFilePath": "/Users/kwon/GitHub/ServerPractice/Server/ServerCore/ServerCore.csproj",
+  "projectFilePath": "Z:\\_Github\\CSharp-Server-Practice\\ServerCore\\ServerCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/uElciVZbNCgCEkFEi1ibGeaC8uf/Z14M7hGtQAxyUHafOMx8I+KvHYveWVlWQ9B8X3ZbA9gt6KATvcOGxjJQ==",
+  "dgSpecHash": "Ne9YY6CpogY3ZzAJacGWD6IwgM6dMWaDwh7Q271arGV9h1lbb/qURYjq7ok0uKV84dAnyAif6hUEd/t2+B8DZA==",
   "success": true,
-  "projectFilePath": "/Users/kwon/GitHub/ServerPractice/Server/DummyClient/DummyClient.csproj",
+  "projectFilePath": "Z:\\_Github\\CSharp-Server-Practice\\DummyClient\\DummyClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
